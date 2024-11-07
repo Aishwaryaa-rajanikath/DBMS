@@ -1,4 +1,4 @@
-# DBMS_Mini_Project
+# DBMS_Mini_Project_for_student 
 ---
 * Travel and Tourism is a Database Based Web Application that allows the Users to access all the details of different cities and places.
 * It focuses on Booking and managing Tour for Customers.The Customers can create their accounts by Signing Up after which they can log in and select services Provided by the website
